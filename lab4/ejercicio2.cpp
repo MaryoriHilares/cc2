@@ -149,6 +149,5 @@ int main(){
 	arr.insert(1,arte);	//insertando un curso en la posicion
 	arr.mostrarCursos();
 	cout<<"------"<<endl;
-    arr.clear();	
 	return 0;
 }
