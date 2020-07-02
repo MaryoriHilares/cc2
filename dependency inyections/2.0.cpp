@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+#include <string> 
 using namespace std;
 ///Sin usar dependencias
 class Revolver {
@@ -17,7 +17,7 @@ class Escopeta{
 	void Disparar() { cout<< "pum PUMMM !! ..\n";}
     };
 
-//Como se darán cuenta, las armas implementan el método Disparar(), la cual el disparo varía dependiendo del tipo de arma que se elija.
+//Como se darÃ¡n cuenta, las armas implementan el mÃ©todo Disparar(), la cual el disparo varÃ­a dependiendo del tipo de arma que se elija.
 
 class Soldado{
 	public:
