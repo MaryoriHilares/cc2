@@ -3,7 +3,8 @@
 using namespace std;
 
 
-class IArma {
+class IArma 
+{
 	public:
         virtual void Disparar()=0;
 };
